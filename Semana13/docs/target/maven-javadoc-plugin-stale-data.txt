@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/Raúl/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/Raúl/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'c:/Users/Raúl/OneDrive/Escritorio/Universidad/Estadística/3º Estadística/1º Cuatrimestre/Programación lll/RepositorioGitHub/proglll-2425-PA4/Semana13/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/Raúl/OneDrive/Escritorio/Universidad/Estadística/3º Estadística/1º Cuatrimestre/Programación lll/RepositorioGitHub/proglll-2425-PA4/Semana13/demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'c:/Users/Raúl/OneDrive/Escritorio/Universidad/Estadística/3º Estadística/1º Cuatrimestre/Programación lll/RepositorioGitHub/proglll-2425-PA4/Semana13/demo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.example
+C:\Users\Raúl\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar = 1734025361929
+C:\Users\Raúl\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar = 1734025362569
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\src\main\java = 1735393900875
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\allclasses-index.html = 1735402858510
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\allpackages-index.html = 1735402858515
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\copy.svg = 1735402858570
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\element-list = 1735402858447
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\help-doc.html = 1735402858559
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\index-all.html = 1735402858539
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\index.html = 1735402858547
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\link.svg = 1735402858574
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\member-search-index.js = 1735402858525
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\module-search-index.js = 1735402858518
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\overview-tree.html = 1735402858491
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\package-search-index.js = 1735402858520
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\script.js = 1735402858567
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\search-page.js = 1735402858583
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\search.html = 1735402858543
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\search.js = 1735402858579
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\stylesheet.css = 1735402858564
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\tag-search-index.js = 1735402858528
+c:\Users\Raúl\OneDrive\Escritorio\Universidad\Estadística\3º Estadística\1º Cuatrimestre\Programación lll\RepositorioGitHub\proglll-2425-PA4\Semana13\demo\target\site\apidocs\type-search-index.js = 1735402858523
