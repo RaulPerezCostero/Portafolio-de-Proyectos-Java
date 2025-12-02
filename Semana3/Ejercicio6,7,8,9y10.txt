@@ -1,0 +1,57 @@
+
+#Ejercicio 6:
+A sido necesario implementar el paquete en el codigo con "package model" en el archivo de PersonaX y
+con package model.PersonaX en el EjercicioX.
+
+
+
+#Ejercicio 7:
+La diferencia entre un constructor con parametros y otro sin ellos, es que a la hora de llamarlos
+no es necesario poner argumento para el que no tiene parametros, por ejemplo los constructores
+leerInt, leerFloat y leerDouble del ejercicio5 son constructores sin parametros. Ej: leerInt()
+
+En cambio uno con parametros si, por ejmplo si quisieramos agregar una persona a una lista de datos
+podriamos crear uno que fuese: Clase.persona(Nombre, Peso, DNI) un ejemplo al llamarlo sería:
+Clase.persona(Juan, 72, 12345678A)
+
+
+
+#Ejercicio8:
+Al no utilizar getters y setters pierdes el control sobre la modificación de los valores de los
+atributos, en cambio si los usamos mantenemos la integridad del programa, pudiendo incluso condicionar
+los valores de entrada, por ejemplo, que el usuario solo pueda introducir valores mayores que cero, sin
+un set y un get sería imposible controlarlo.
+
+Es una cuestión tanto de seguridad como de diseño ya que si solamente usamos un get entonces le
+estaremos dando permiso al usuario a leer pero no a modificar. Además permiten no tener que modificar
+todo el codigo si decidimos cambiar la forma en la que se calculan los atributos, tan solo habría que
+modificar el cuerpo del metodo de acceso.
+
+También es una cuesetión de diseño ya que encapsulamos el codigo y también pasamos por el proceso
+de abstracción.
+
+
+
+#Ejercicio9:
+Si el método es publico entonces este es accesible desde cualquier parte del código, es decir se puede
+accder desde una Clase, un Paquete o Modulo. Y si es posible acceder a traves de un ".".
+
+Si el método es privado entonces solo se puede acceder a el desde su propia Clase, y tampoco se podra
+acceder a el a traves de un "."desde fuera de la Clase, necesitarás hacer uso de get y set.
+
+Si el método no tiene ningun modificador de visibilidad, entonces solo es accesible desde clases
+que esten el mismo paquete que el. Se puede usar "." para acceder a el siempre y cuando se haga desde
+fuera del método pero dentro de su paquete.
+
+
+
+#Ejercicio10:
+"this" sirve principalmente para hacer referencias a atributos de forma que nos permita deiferenciar el nombre
+de un constructor con el de un atributo si los dos tienen el mismo nombre. También se puede usar para
+llamar a un constructor que este en la misma clase. Por otro lado, "new" se utiliza para crear objetos,
+además reserva un espacio en memoria y llama al constructor de la clase y también permite crear arreglos.
+
+
+
+
+
