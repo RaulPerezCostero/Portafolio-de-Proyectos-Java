@@ -1,0 +1,24 @@
+Multiplataofrma
+
+CLView: java app.jar -Tarea "Estudiar"-Fecha "08/09/2024" ------> (Fecha es un parametro)
+
+BaseView: 1.VoiceView, 2.VistaListado, 3.VistaSubMenu
+
+El contralador tiene una vista BaseView
+
+Notion: En notion cada tabla tiene una id (Que hay que usar para algo)
+
+Usar de guia el esquema pagina 4: EN el esquema  ---->  (A) Clase Abstracta, (C) Clase concreta y (I)
+
+Lo suyo es hacer una propagacion de excepciones, que si una excepcion esta en el modelo pase al controlador y a la vista (se usa throw 0 throws)
+
+El informe maximo 5 o 6 paginas, nombre, apellidos, pantallazos y explicar, explicar problemas y como los has solucionado. Explicar un poc todo o si se ha cambiado alguna estructura del esquema (hoja 4)
+
+
+
+
+
+
+
+
+
